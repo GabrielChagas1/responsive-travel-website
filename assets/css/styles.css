@@ -164,7 +164,8 @@ input {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background: var(--first-color);
+  background: transparent;
+  /* background: var(--first-color); */
 }
 
 /*=============== NAV ===============*/
