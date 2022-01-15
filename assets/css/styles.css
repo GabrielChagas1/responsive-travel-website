@@ -837,7 +837,22 @@ input {
 }
 
 /* For medium devices */
+@media screen and (min-width: 568px) {
+  .video__container{
+    display: grid;
+    grid-template-columns: .6fr;
+    justify-content: center;
+  }
 
+  .place__container{
+    grid-template-columns: repeat(3, max-content);
+  }
+
+  .subscribe__form{
+    width: 470px;
+    margin: 0 auto;
+  }
+}
 
 @media screen and (min-width: 768px) {
   
