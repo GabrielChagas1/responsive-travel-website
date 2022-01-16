@@ -138,12 +138,12 @@ sr.reveal(`.about__data,
     origin: 'left',
 })
 
-// sr.reveal(`.about__img-overlay, 
-//            .video__content,
-//            .subscribe__form`,{
-//     origin: 'right',
-//     interval: 100,
-// })
+sr.reveal(`.about__img-overlay, 
+           .video__content,
+           .subscribe__form`,{
+    origin: 'right',
+    interval: 100,
+})
 
 /*==================== DARK LIGHT THEME ====================*/ 
 const themeButton = document.getElementById('theme-button')
