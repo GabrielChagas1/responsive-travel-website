@@ -132,11 +132,11 @@ sr.reveal(`.home__data, .home__social-link, .home__info,
     interval: 100,
 })
 
-// sr.reveal(`.about__data, 
-//            .video__description,
-//            .subscribe__description`,{
-//     origin: 'left',
-// })
+sr.reveal(`.about__data, 
+           .video__description,
+           .subscribe__description`,{
+    origin: 'left',
+})
 
 // sr.reveal(`.about__img-overlay, 
 //            .video__content,
