@@ -21,12 +21,12 @@
 * [Links Contato](#links-contato)
 
 # Descrição
-Criação de um site com tema sobre viagem para treino e fixação de conteúdo. [**@Bedim Code**](https://www.youtube.com/watch?v=YzRDHxbw1RU&t=6431s)
+Criação de um site com tema sobre viagem para treino e fixação de conteúdo. [**@BedimCode**](https://www.youtube.com/c/Bedimcode)
 
 # Techs: 
 - **HTML**
 - **CSS**
-- **JS**
+- **JAVASCRIPT**
 
 # Design:
 - O modelo final para desktop está disponível na pasta `./design`
